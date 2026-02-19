@@ -1,7 +1,3 @@
-Perfecto, Félix 🙌
-Te hago un README más profesional y completo para tu proyecto Mapa Dinámico – República Dominicana en GitHub.
-
-Puedes copiar y pegar esto en tu README.md 👇
 
 🇩🇴 Mapa Dinámico – República Dominicana
 📌 Descripción del Proyecto
